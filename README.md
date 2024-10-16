@@ -140,7 +140,7 @@ EOF
 
 ```
 resource "aws_instance" "ce20" {
-  ami           = "ami-02c329a4b4aba6a48"
+  ami           = "{AMI이름}"
   instance_type = "t2.micro"
   key_name      = "ce20-key"
   tags = {
