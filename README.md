@@ -1,4 +1,4 @@
-# Terraform을 사용한 AWS 인프라 자동화
+# Terraform을 사용한 AWS 인프라
 
 ## 개요
 
