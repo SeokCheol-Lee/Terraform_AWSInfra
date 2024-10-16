@@ -50,7 +50,7 @@ Terraform 모듈과 플러그인을 다운로드하고 초기화합니다.
 인프라를 실제로 배포합니다. 이 과정에서 사용자에게 확인을 요청할 수 있습니다.
     
     ```
-    terraform apply
+    terraform apply-auto-approve
     ```
     
 4. **출력 확인**
